@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <base href="/color/">
+  <meta charset="UTF-8">
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible">
+  <title>Color World</title>
+  <script>
+    window.flutterWebRenderer = "html";
+  </script>
+</head>
+<body>
+  <div id="status" style="display: flex; justify-content: center; align-items: center; height: 100vh; font-family: sans-serif; font-weight: bold; color: #2D2D2D;">Syncing...</div>
+  <script src="flutter.js" defer></script>
+  <script>
+    window.addEventListener('load', function(ev) {
+      var status = document.getElementById('status');
+      status.innerText = 'Loading Engine...';
+      _flutter.loader.loadEntrypoint({
+        onEntrypointLoaded: function(engineInitializer) {
+          status.innerText = 'Initializing...';
+          engineInitializer.initializeEngine().then(function(appRunner) {
+            status.innerText = 'Running App...';
+            appRunner.runApp();
+          });
+        }
+      });
+    });
+  </script>
+</body>
+</html>

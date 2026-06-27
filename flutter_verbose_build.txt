@@ -1,0 +1,303 @@
+[ +112 ms] Artifact Instance of 'AndroidGenSnapshotArtifacts' is not required, skipping update.
+[   +3 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[   +2 ms] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[  +42 ms] Artifact Instance of 'MaterialFonts' is not required, skipping update.
+[        ] Artifact Instance of 'GradleWrapper' is not required, skipping update.
+[   +1 ms] Artifact Instance of 'AndroidInternalBuildArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterWebSdk' is not required, skipping update.
+[        ] Artifact Instance of 'LegacyCanvasKitRemover' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterSdk' is not required, skipping update.
+[        ] Artifact Instance of 'WindowsEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxEngineArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'LinuxFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'MacOSFuchsiaSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerSDKArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FlutterRunnerDebugSymbols' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'IosUsbArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'FontSubsetArtifacts' is not required, skipping update.
+[        ] Artifact Instance of 'PubDependencies' is not required, skipping update.
+[  +61 ms] Skipping pub get: version match.
+[  +14 ms] Found plugin audioplayers at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.4.0\
+[   +2 ms] Found plugin audioplayers_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.0\
+[   +1 ms] Found plugin audioplayers_darwin at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.2.0\
+[   +1 ms] Found plugin audioplayers_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.0\
+[   +2 ms] Found plugin audioplayers_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.0\
+[   +1 ms] Found plugin audioplayers_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.0\
+[  +10 ms] Found plugin gal at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\gal-2.3.2\
+[   +2 ms] Found plugin google_mobile_ads at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-5.3.1\
+[   +3 ms] Found plugin in_app_purchase at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase-3.2.3\
+[   +1 ms] Found plugin in_app_purchase_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_android-0.4.0\
+[   +2 ms] Found plugin in_app_purchase_storekit at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_storekit-0.4.0\
+[   +8 ms] Found plugin path_provider at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[   +1 ms] Found plugin path_provider_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[   +1 ms] Found plugin path_provider_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[   +1 ms] Found plugin path_provider_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +1 ms] Found plugin path_provider_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[   +1 ms] Found plugin permission_handler at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[   +1 ms] Found plugin permission_handler_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[   +1 ms] Found plugin permission_handler_apple at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.10\
+[        ] Found plugin permission_handler_html at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +2 ms] Found plugin permission_handler_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +2 ms] Found plugin shared_preferences at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.3\
+[        ] Found plugin shared_preferences_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[   +1 ms] Found plugin shared_preferences_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[        ] Found plugin shared_preferences_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin shared_preferences_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[   +1 ms] Found plugin shared_preferences_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +8 ms] Found plugin webview_flutter at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.10.0\
+[        ] Found plugin webview_flutter_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.3.2\
+[   +1 ms] Found plugin webview_flutter_wkwebview at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.22.0\
+[  +22 ms] Found plugin audioplayers at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.4.0\
+[        ] Found plugin audioplayers_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.0\
+[        ] Found plugin audioplayers_darwin at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.2.0\
+[        ] Found plugin audioplayers_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.0\
+[   +1 ms] Found plugin audioplayers_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.0\
+[        ] Found plugin audioplayers_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.0\
+[   +6 ms] Found plugin gal at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\gal-2.3.2\
+[        ] Found plugin google_mobile_ads at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-5.3.1\
+[   +2 ms] Found plugin in_app_purchase at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase-3.2.3\
+[        ] Found plugin in_app_purchase_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_android-0.4.0\
+[   +1 ms] Found plugin in_app_purchase_storekit at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_storekit-0.4.0\
+[   +5 ms] Found plugin path_provider at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ] Found plugin path_provider_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[        ] Found plugin path_provider_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[        ] Found plugin path_provider_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +1 ms] Found plugin path_provider_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[        ] Found plugin permission_handler at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[        ] Found plugin permission_handler_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[        ] Found plugin permission_handler_apple at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.10\
+[        ] Found plugin permission_handler_html at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +1 ms] Found plugin shared_preferences at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.3\
+[        ] Found plugin shared_preferences_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[        ] Found plugin shared_preferences_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[        ] Found plugin shared_preferences_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin shared_preferences_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[        ] Found plugin shared_preferences_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +6 ms] Found plugin webview_flutter at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.10.0\
+[        ] Found plugin webview_flutter_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.3.2\
+[   +1 ms] Found plugin webview_flutter_wkwebview at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.22.0\
+[  +14 ms] Found plugin audioplayers at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers-6.4.0\
+[        ] Found plugin audioplayers_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_android-5.2.0\
+[        ] Found plugin audioplayers_darwin at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_darwin-6.2.0\
+[        ] Found plugin audioplayers_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_linux-4.2.0\
+[   +1 ms] Found plugin audioplayers_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_web-5.1.0\
+[        ] Found plugin audioplayers_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\audioplayers_windows-4.2.0\
+[   +6 ms] Found plugin gal at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\gal-2.3.2\
+[        ] Found plugin google_mobile_ads at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\google_mobile_ads-5.3.1\
+[   +1 ms] Found plugin in_app_purchase at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase-3.2.3\
+[        ] Found plugin in_app_purchase_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_android-0.4.0\
+[   +1 ms] Found plugin in_app_purchase_storekit at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\in_app_purchase_storekit-0.4.0\
+[   +5 ms] Found plugin path_provider at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider-2.1.5\
+[        ] Found plugin path_provider_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_android-2.2.15\
+[        ] Found plugin path_provider_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_foundation-2.4.1\
+[        ] Found plugin path_provider_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_linux-2.2.1\
+[   +1 ms] Found plugin path_provider_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\path_provider_windows-2.3.0\
+[        ] Found plugin permission_handler at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler-11.4.0\
+[        ] Found plugin permission_handler_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_android-12.1.0\
+[        ] Found plugin permission_handler_apple at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_apple-9.4.10\
+[        ] Found plugin permission_handler_html at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_html-0.1.3+5\
+[   +1 ms] Found plugin permission_handler_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\permission_handler_windows-0.2.1\
+[   +1 ms] Found plugin shared_preferences at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences-2.5.3\
+[        ] Found plugin shared_preferences_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_android-2.4.7\
+[        ] Found plugin shared_preferences_foundation at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_foundation-2.5.4\
+[        ] Found plugin shared_preferences_linux at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_linux-2.4.1\
+[   +1 ms] Found plugin shared_preferences_web at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_web-2.4.3\
+[        ] Found plugin shared_preferences_windows at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\shared_preferences_windows-2.4.1\
+[   +6 ms] Found plugin webview_flutter at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter-4.10.0\
+[        ] Found plugin webview_flutter_android at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_android-4.3.2\
+[   +1 ms] Found plugin webview_flutter_wkwebview at C:\Users\developer\AppData\Local\Pub\Cache\hosted\pub.dev\webview_flutter_wkwebview-3.22.0\
+[   +6 ms] Generating C:\Users\developer\poke\color_world\android\app\src\main\java\io\flutter\plugins\GeneratedPluginRegistrant.java
+[  +63 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[  +70 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java -version
+[        ] openjdk version "21.0.10" 2026-01-20
+           OpenJDK Runtime Environment (build 21.0.10+-14961533-b1163.108)
+           OpenJDK 64-Bit Server VM (build 21.0.10+-14961533-b1163.108, mixed mode)
+[   +7 ms] executing: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[  +68 ms] Exit code 0 from: C:\Program Files\Android\Android Studio\jbr\bin\java --version
+[        ] openjdk 21.0.10 2026-01-20
+           OpenJDK Runtime Environment (build 21.0.10+-14961533-b1163.108)
+           OpenJDK 64-Bit Server VM (build 21.0.10+-14961533-b1163.108, mixed mode)
+[   +1 ms] Version of Java is different than impacted version, no migration attempted.
+[  +16 ms] Using gradle from C:\Users\developer\poke\color_world\android\gradlew.bat.
+[        ] Running Gradle task 'assembleDebug'...
+[   +2 ms] executing: [C:\Users\developer\poke\color_world\android/] C:\Users\developer\poke\color_world\android\gradlew.bat --full-stacktrace --info -Pverbose=true -Ptarget-platform=android-arm,android-arm64,android-x64 -Ptarget=lib\main.dart -Pbase-application-name=android.app.Application -Pdart-obfuscation=false -Ptrack-widget-creation=true -Ptree-shake-icons=false assembleDebug
+[ +423 ms] Initialized native services in: C:\Users\developer\.gradle\native
+[        ] Initialized jansi services in: C:\Users\developer\.gradle\native
+[ +104 ms] Received JVM installation metadata from 'C:\Program Files\Android\Android Studio\jbr': {JAVA_HOME=C:\Program Files\Android\Android Studio\jbr, JAVA_VERSION=21.0.10, JAVA_VENDOR=JetBrains s.r.o., RUNTIME_NAME=OpenJDK Runtime Environment, RUNTIME_VERSION=21.0.10+-14961533-b1163.108, VM_NAME=OpenJDK 64-Bit Server VM, VM_VERSION=21.0.10+-14961533-b1163.108, VM_VENDOR=JetBrains s.r.o., OS_ARCH=amd64}
+[ +100 ms] The client will now receive all logging from the daemon (pid: 10264). The daemon log file: C:\Users\developer\.gradle\daemon\8.7\daemon-10264.out.log
+[        ] Starting 2nd build in daemon [uptime: 33.894 secs, performance: 99%, GC rate: 0.00/s, heap usage: 1% of 2 GiB, non-heap usage: 29% of 512 MiB]
+[        ] Using 24 worker leases.
+[        ] Now considering [C:\Users\developer\poke\color_world\android, C:\flutter\packages\flutter_tools\gradle] as hierarchies to watch
+[        ] Watching the file system is configured to be enabled if available
+[        ] File system watching is active
+[ +111 ms] Starting Build
+[        ] Now considering [C:\flutter\packages\flutter_tools\gradle, C:\Users\developer\poke\color_world\android] as hierarchies to watch
+[   +1 ms] > Configure project :gradle
+[        ] Evaluating project ':gradle' using build file 'C:\flutter\packages\flutter_tools\gradle\build.gradle.kts'.
+[        ] Resolve mutations for :gradle:compileJava (Thread[#148,Execution worker,5,main]) started.
+[        ] :gradle:compileJava (Thread[#148,Execution worker,5,main]) started.
+[        ] > Task :gradle:compileJava NO-SOURCE
+[        ] Skipping task ':gradle:compileJava' as it has no source files and no previous output files.
+[        ] Resolve mutations for :gradle:compileGroovy (Thread[#148,Execution worker,5,main]) started.
+[        ] :gradle:compileGroovy (Thread[#148,Execution worker,5,main]) started.
+[ +785 ms] This JVM does not support getting OS memory, so no OS memory status updates will be broadcast
+[ +205 ms] > Task :gradle:compileGroovy FAILED
+[        ] Caching disabled for task ':gradle:compileGroovy' because:
+[        ]   Build cache is disabled
+[        ] Task ':gradle:compileGroovy' is not up-to-date because:
+[        ]   Task has failed previously.
+[        ] The input changes require a full rebuild for incremental task ':gradle:compileGroovy'.
+[        ] Starting process 'Gradle Worker Daemon 2'. Working directory: C:\Users\developer\.gradle\workers Command: C:\Program Files\Android\Android Studio\jbr\bin\java.exe --add-opens=java.base/java.lang=ALL-UNNAMED --add-opens=java.base/java.lang.invoke=ALL-UNNAMED --add-opens=java.base/java.util=ALL-UNNAMED --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED @C:\Users\developer\.gradle\.tmp\gradle-worker-classpath3722968803230645878txt -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=TR -Duser.language=tr -Duser.variant worker.org.gradle.process.internal.worker.GradleWorkerMain 'Gradle Worker Daemon 2'
+[        ] Successfully started process 'Gradle Worker Daemon 2'
+[        ] Started Gradle worker daemon (0.371 secs) with fork options DaemonForkOptions{executable=C:\Program Files\Android\Android Studio\jbr\bin\java.exe, minHeapSize=null, maxHeapSize=null, jvmArgs=[--add-opens=java.base/java.lang=ALL-UNNAMED, --add-opens=java.base/java.lang.invoke=ALL-UNNAMED, --add-opens=java.base/java.util=ALL-UNNAMED, --add-opens=java.prefs/java.util.prefs=ALL-UNNAMED], keepAliveMode=SESSION}.
+[        ] FAILURE: Build failed with an exception.
+[        ] * What went wrong:
+[        ] Execution failed for task ':gradle:compileGroovy'.
+[        ] * Try:
+[        ] > Run with --debug option to get more log output.
+[        ] > Run with --scan to get full insights.
+[        ] > Get more help at https://help.gradle.org.
+[        ] * Exception is:
+[        ] org.gradle.api.tasks.TaskExecutionException: Execution failed for task ':gradle:compileGroovy'.
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.lambda$executeIfValid$1(ExecuteActionsTaskExecuter.java:130)
+[        ] 	at org.gradle.internal.Try$Failure.ifSuccessfulOrElse(Try.java:282)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.executeIfValid(ExecuteActionsTaskExecuter.java:128)
+[        ] 	at org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter.execute(ExecuteActionsTaskExecuter.java:116)
+[        ] 	at org.gradle.api.internal.tasks.execution.FinalizePropertiesTaskExecuter.execute(FinalizePropertiesTaskExecuter.java:46)
+[        ] 	at org.gradle.api.internal.tasks.execution.ResolveTaskExecutionModeExecuter.execute(ResolveTaskExecutionModeExecuter.java:51)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipTaskWithNoActionsExecuter.execute(SkipTaskWithNoActionsExecuter.java:57)
+[        ] 	at org.gradle.api.internal.tasks.execution.SkipOnlyIfTaskExecuter.execute(SkipOnlyIfTaskExecuter.java:74)
+[        ] 	at org.gradle.api.internal.tasks.execution.CatchExceptionTaskExecuter.execute(CatchExceptionTaskExecuter.java:36)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.executeTask(EventFiringTaskExecuter.java:77)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:55)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter$1.call(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:200)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$CallableBuildOperationWorker.execute(DefaultBuildOperationRunner.java:195)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:66)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner$2.execute(DefaultBuildOperationRunner.java:59)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:157)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.execute(DefaultBuildOperationRunner.java:59)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationRunner.call(DefaultBuildOperationRunner.java:53)
+[        ] 	at org.gradle.internal.operations.DefaultBuildOperationExecutor.call(DefaultBuildOperationExecutor.java:73)
+[        ] 	at org.gradle.api.internal.tasks.execution.EventFiringTaskExecuter.execute(EventFiringTaskExecuter.java:52)
+[        ] 	at org.gradle.execution.plan.LocalTaskNodeExecutor.execute(LocalTaskNodeExecutor.java:42)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:331)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$InvokeNodeExecutorsAction.execute(DefaultTaskExecutionGraph.java:318)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.lambda$execute$0(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:80)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:314)
+[        ] 	at org.gradle.execution.taskgraph.DefaultTaskExecutionGraph$BuildOperationAwareExecutionAction.execute(DefaultTaskExecutionGraph.java:303)
+[        ] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.execute(DefaultPlanExecutor.java:463)
+[  +10 ms] 	at org.gradle.execution.plan.DefaultPlanExecutor$ExecutorWorker.run(DefaultPlanExecutor.java:380)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[        ] 	at java.base/java.lang.Thread.run(Unknown Source)
+[        ] Caused by: java.lang.ExceptionInInitializerError
+[        ] 	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized0(Native Method)
+[        ] 	at java.base/jdk.internal.misc.Unsafe.ensureClassInitialized(Unknown Source)
+[        ] 	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.ensureClassInitialized(Unknown Source)
+[        ] 	at java.base/jdk.internal.reflect.MethodHandleAccessorFactory.newMethodAccessor(Unknown Source)
+[        ] 	at java.base/jdk.internal.reflect.ReflectionFactory.newMethodAccessor(Unknown Source)
+[        ] 	at java.base/java.lang.reflect.Method.acquireMethodAccessor(Unknown Source)
+[        ] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[        ] 	at org.gradle.api.internal.classloading.GroovySystemLoaderFactory.getGroovyVersion(GroovySystemLoaderFactory.java:58)
+[        ] 	at org.gradle.api.internal.classloading.GroovySystemLoaderFactory.createClassInfoCleaningLoader(GroovySystemLoaderFactory.java:51)
+[        ] 	at org.gradle.api.internal.classloading.GroovySystemLoaderFactory.forClassLoader(GroovySystemLoaderFactory.java:34)
+[        ] 	at org.gradle.api.internal.tasks.compile.ApiGroovyCompiler.execute(ApiGroovyCompiler.java:195)
+[        ] 	at org.gradle.api.internal.tasks.compile.ApiGroovyCompiler.execute(ApiGroovyCompiler.java:67)
+[        ] 	at org.gradle.api.internal.tasks.compile.GroovyCompilerFactory$DaemonSideCompiler.execute(GroovyCompilerFactory.java:96)
+[        ] 	at org.gradle.api.internal.tasks.compile.GroovyCompilerFactory$DaemonSideCompiler.execute(GroovyCompilerFactory.java:80)
+[        ] 	at org.gradle.api.internal.tasks.compile.daemon.AbstractIsolatedCompilerWorkerExecutor$CompilerWorkAction.execute(AbstractIsolatedCompilerWorkerExecutor.java:78)
+[        ] 	at org.gradle.workers.internal.DefaultWorkerServer.execute(DefaultWorkerServer.java:63)
+[        ] 	at org.gradle.workers.internal.AbstractClassLoaderWorker$1.create(AbstractClassLoaderWorker.java:54)
+[        ] 	at org.gradle.workers.internal.AbstractClassLoaderWorker$1.create(AbstractClassLoaderWorker.java:48)
+[        ] 	at org.gradle.internal.classloader.ClassLoaderUtils.executeInClassloader(ClassLoaderUtils.java:100)
+[        ] 	at org.gradle.workers.internal.AbstractClassLoaderWorker.executeInClassLoader(AbstractClassLoaderWorker.java:48)
+[        ] 	at org.gradle.workers.internal.IsolatedClassloaderWorker.run(IsolatedClassloaderWorker.java:49)
+[        ] 	at org.gradle.workers.internal.IsolatedClassloaderWorker.run(IsolatedClassloaderWorker.java:30)
+[        ] 	at org.gradle.workers.internal.WorkerDaemonServer.run(WorkerDaemonServer.java:102)
+[        ] 	at org.gradle.workers.internal.WorkerDaemonServer.run(WorkerDaemonServer.java:71)
+[        ] 	at org.gradle.process.internal.worker.request.WorkerAction$1.call(WorkerAction.java:146)
+[        ] 	at org.gradle.process.internal.worker.child.WorkerLogEventListener.withWorkerLoggingProtocol(WorkerLogEventListener.java:41)
+[        ] 	at org.gradle.process.internal.worker.request.WorkerAction.lambda$run$0(WorkerAction.java:143)
+[        ] 	at org.gradle.internal.operations.CurrentBuildOperationRef.with(CurrentBuildOperationRef.java:80)
+[        ] 	at org.gradle.process.internal.worker.request.WorkerAction.run(WorkerAction.java:135)
+[        ] 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(Unknown Source)
+[        ] 	at java.base/java.lang.reflect.Method.invoke(Unknown Source)
+[        ] 	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:36)
+[        ] 	at org.gradle.internal.dispatch.ReflectionDispatch.dispatch(ReflectionDispatch.java:24)
+[        ] 	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:182)
+[        ] 	at org.gradle.internal.remote.internal.hub.MessageHubBackedObjectConnection$DispatchWrapper.dispatch(MessageHubBackedObjectConnection.java:164)
+[        ] 	at org.gradle.internal.remote.internal.hub.MessageHub$Handler.run(MessageHub.java:414)
+[        ] 	at org.gradle.internal.concurrent.ExecutorPolicy$CatchAndRecordFailures.onExecute(ExecutorPolicy.java:64)
+[        ] 	at org.gradle.internal.concurrent.AbstractManagedExecutor$1.run(AbstractManagedExecutor.java:47)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+[        ] 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+[        ] 	at java.base/java.lang.Thread.run(Unknown Source)
+[        ] Caused by: groovy.lang.GroovyRuntimeException: Conflicting module versions. Module [groovy-xml is loaded in version 3.0.17 and you are trying to load version 3.0.22
+[        ] 	at org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl$DefaultModuleListener.onModule(MetaClassRegistryImpl.java:510)
+[        ] 	at org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner.scanExtensionModuleFromProperties(ExtensionModuleScanner.java:87)
+[        ] 	at org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner.scanExtensionModuleFromMetaInf(ExtensionModuleScanner.java:81)
+[        ] 	at org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner.scanClasspathModulesFrom(ExtensionModuleScanner.java:63)
+[        ] 	at org.codehaus.groovy.runtime.m12n.ExtensionModuleScanner.scanClasspathModules(ExtensionModuleScanner.java:54)
+[        ] 	at org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.<init>(MetaClassRegistryImpl.java:125)
+[        ] 	at org.codehaus.groovy.runtime.metaclass.MetaClassRegistryImpl.<init>(MetaClassRegistryImpl.java:86)
+[        ] 	at groovy.lang.GroovySystem.<clinit>(GroovySystem.java:37)
+[        ] 	... 41 more
+[   +2 ms] BU´¬¢LD FAILED in 1s
+[        ] 1 actionable task: 1 executed
+[        ] Watched directory hierarchies: [C:\flutter\packages\flutter_tools\gradle]
+[  +31 ms] Stopped 1 worker daemon(s).
+[ +491 ms] Running Gradle task 'assembleDebug'... (completed in 2.274ms)
+[  +23 ms] "flutter apk" took 2.864ms.
+[  +24 ms] Gradle task assembleDebug failed with exit code 1
+[        ] 
+           #0      throwToolExit (package:flutter_tools/src/base/common.dart:10:3)
+           #1      AndroidGradleBuilder.buildGradleApp (package:flutter_tools/src/android/gradle.dart:500:9)
+           <asynchronous suspension>
+           #2      AndroidGradleBuilder.buildApk (package:flutter_tools/src/android/gradle.dart:224:5)
+           <asynchronous suspension>
+           #3      BuildApkCommand.runCommand (package:flutter_tools/src/commands/build_apk.dart:141:5)
+           <asynchronous suspension>
+           #4      FlutterCommand.run.<anonymous closure> (package:flutter_tools/src/runner/flutter_command.dart:1408:27)
+           <asynchronous suspension>
+           #5      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:153:19)
+           <asynchronous suspension>
+           #6      CommandRunner.runCommand (package:args/command_runner.dart:212:13)
+           <asynchronous suspension>
+           #7      FlutterCommandRunner.runCommand.<anonymous closure> (package:flutter_tools/src/runner/flutter_command_runner.dart:420:9)
+           <asynchronous suspension>
+           #8      AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:153:19)
+           <asynchronous suspension>
+           #9      FlutterCommandRunner.runCommand (package:flutter_tools/src/runner/flutter_command_runner.dart:364:5)
+           <asynchronous suspension>
+           #10     run.<anonymous closure>.<anonymous closure> (package:flutter_tools/runner.dart:130:9)
+           <asynchronous suspension>
+           #11     AppContext.run.<anonymous closure> (package:flutter_tools/src/base/context.dart:153:19)
+           <asynchronous suspension>
+           #12     main (package:flutter_tools/executable.dart:93:3)
+           <asynchronous suspension>
+System.Management.Automation.RemoteException
+System.Management.Automation.RemoteException
+[  +59 ms] ensureAnalyticsSent: 58ms
+[        ] Running 1 shutdown hook
+[        ] Shutdown hooks complete
+[  +71 ms] exiting with code 1
